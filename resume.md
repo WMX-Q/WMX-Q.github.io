@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 你了解我吗？
-subtitle: An awesome person
+subtitle: 本人是一位很帅的人
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
