@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Résumé
+title: 你了解我吗？
 subtitle: An awesome person
 ---
 
