@@ -8,7 +8,7 @@ subtitle: 本人是一位很帅的人
 <br>
 
 ### 技能
-```Lorem ipsum dolor坐下，一直保持着安静的状态。 莫尔比·塞德·波特提米尔mi。 在Bibendum tortor nec massa finibus中，乌尔纳·普尔维纳尔（urna pulvinar）。 sed congue blandit est non sagittis。 在eget lobortis ipsum中。 Quisque id nisl nisl。 Donec nep dapibus直径。 Donec vel euismod nisi。  ```  
+英语专业6级，  
 
 ### 工程项目
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
