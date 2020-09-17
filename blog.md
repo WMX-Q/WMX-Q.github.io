@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 博客
-subtitle: Select ramblings of Pudhina
+subtitle:干
 ---
 
 <div>
