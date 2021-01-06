@@ -8,7 +8,7 @@ subtitle: Hello!!!
 
 ### 个人简历
 **基本信息**   
-姓名:<span>郑学腾</span><br>
+姓名:<span>大牛</span><br>
 性别:<span>男</span><br>
 专业:<span>计算机应用技术</span><br>
 政治面貌:<span>团员</span><br>
